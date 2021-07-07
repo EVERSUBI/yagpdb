@@ -73,4 +73,16 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
+	"kontol":      true,
+        "cok":         true,
+        "asu":         true,
+        "tempik":      true,
+        "kirim bokep": true,
+	"send bokep":  true,
+	"p":           true,
+	"celeh":       true,
+	"ngentod":     true,
+	"jancok":      true,
+        "dancok":      true,
 }
+    
